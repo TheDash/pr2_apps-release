@@ -2,6 +2,9 @@
 Changelog for package pr2_mannequin_mode
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.14 (2014-11-20)
+-------------------
+
 0.5.13 (2014-11-18)
 -------------------
 * Files were in correcet positoin, script was referencing wrong subdir
