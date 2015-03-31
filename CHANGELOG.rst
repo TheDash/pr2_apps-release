@@ -2,6 +2,12 @@
 Changelog for package pr2_teleop_general
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.18 (2015-02-10)
+-------------------
+
+0.5.16 (2015-02-06)
+-------------------
+
 0.5.15 (2015-01-28)
 -------------------
 * Bugfix for pr2_teleop_general. Added destinations for targets
