@@ -2,6 +2,15 @@
 Changelog for package pr2_tuckarm
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.18 (2015-02-10)
+-------------------
+* Merge branch 'hydro-devel' of https://github.com/PR2/pr2_apps into hydro-devel
+* Updated maintainership
+* Contributors: TheDash
+
+0.5.16 (2015-02-06)
+-------------------
+
 0.5.15 (2015-01-28)
 -------------------
 
