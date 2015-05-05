@@ -1,3 +1,31 @@
+## pr2_apps (hydro) - 0.5.20-0
+
+The packages in the `pr2_apps` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro pr2_apps --edit` on `Tue, 05 May 2015 14:56:00 -0000`
+
+These packages were released:
+- `pr2_app_manager`
+- `pr2_apps`
+- `pr2_mannequin_mode`
+- `pr2_position_scripts`
+- `pr2_teleop`
+- `pr2_teleop_general`
+- `pr2_tuckarm`
+
+Version of package(s) in repository `pr2_apps`:
+- upstream repository: https://github.com/PR2/pr2_apps.git
+- release repository: https://github.com/TheDash/pr2_apps-release.git
+- rosdistro version: `0.5.18-0`
+- old version: `0.5.18-0`
+- new version: `0.5.20-0`
+
+Versions of tools used:
+- bloom version: `0.5.17`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## pr2_apps (hydro) - 0.5.18-0
 
 The packages in the `pr2_apps` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro pr2_apps --edit` on `Tue, 31 Mar 2015 19:45:14 -0000`
